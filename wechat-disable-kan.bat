@@ -3,7 +3,7 @@
 rem taskkill 是异步的，所以执行后可能进程还在运行，会导致 del 失败
 rem 所以这里强制为同步
 
-set processname="notepad.exe"
+set processname="WeChatWeb.exe"
 
 :loop
 taskkill /f /im %processname% /t 2>nul
