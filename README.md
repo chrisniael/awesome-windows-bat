@@ -6,4 +6,3 @@
 * [enable-rdp-authentication.bat](enable-rdp-authentication.bat): 开启 RDP 协议 (远程桌面)
 * [disable-chrome-edge-render-code-integrity.bat](disable-chrome-edge-render-code-integrity.bat): 关闭 Chrome/Edge RendererCodeIntegrityEnabled
 * [disable-bing-search.bat](disable-bing-search.bat): 关闭集成在开始菜单的 Bing 搜索功能
-* [wechat-disable-kan.bat](wechat-disable-kan.bat): 禁用 Windows 微信客户端 ”看一看“ 功能
